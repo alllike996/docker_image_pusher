@@ -5,3 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 wisdomsky/cloudflared-web:2025.7.0
+tailscale/tailscale

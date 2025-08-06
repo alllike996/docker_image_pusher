@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 wisdomsky/cloudflared-web:2025.7.0
 tailscale/tailscale
+cnk3x/xunlei

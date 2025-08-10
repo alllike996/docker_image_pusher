@@ -12,3 +12,5 @@ tailscale/tailscale
 cnk3x/xunlei
 #加密端对端聊天
 ghcr.io/shuaiplus/nodecrypt
+#适配玩客云迅雷
+--platform=linux/arm/v7 cnk3x/xunlei

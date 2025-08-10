@@ -12,4 +12,5 @@
 #cnk3x/xunlei
 #加密端对端聊天
 #ghcr.io/shuaiplus/nodecrypt
-
+#arm32/v7青龙
+whyour/qinglong:develop

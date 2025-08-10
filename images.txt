@@ -4,7 +4,11 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+#cloud flare隧道
 wisdomsky/cloudflared-web:2025.7.0
-tailscale/tailscale#隧道
-cnk3x/xunlei#迅雷
-ghcr.io/shuaiplus/nodecrypt#加密端对端聊天
+#隧道
+tailscale/tailscale
+#迅雷
+cnk3x/xunlei
+#加密端对端聊天
+ghcr.io/shuaiplus/nodecrypt

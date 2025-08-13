@@ -14,3 +14,5 @@
 #ghcr.io/shuaiplus/nodecrypt
 #arm32/v7青龙
 whyour/qinglong:develop
+#盘搜
+ghcr.io/fish2018/pansou-web

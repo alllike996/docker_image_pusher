@@ -18,4 +18,5 @@
 #ghcr.io/fish2018/pansou-web
 #备忘录
 #neosmemo/memos:stable
+#ghcr.io/moontechlab/lunatv:latest
 ghcr.io/moontechlab/lunatv:latest

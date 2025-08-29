@@ -19,4 +19,4 @@
 #备忘录
 #neosmemo/memos:stable
 #ghcr.io/moontechlab/lunatv:latest
-ghcr.io/moontechlab/lunatv:latest
+xream/sub-store:http-meta

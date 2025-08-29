@@ -19,4 +19,5 @@
 #备忘录
 #neosmemo/memos:stable
 #ghcr.io/moontechlab/lunatv:latest
-xream/sub-store:http-meta
+#xream/sub-store:http-meta
+--platform linux/arm/v7 xream/sub-store:http-meta

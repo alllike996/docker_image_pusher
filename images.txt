@@ -20,4 +20,7 @@
 #neosmemo/memos:stable
 #ghcr.io/moontechlab/lunatv:latest
 #xream/sub-store:http-meta
---platform linux/arm/v7 xream/sub-store:http-meta
+#节点订阅管理
+#--platform linux/arm/v7 xream/sub-store:http-meta
+#备忘录arm7版本
+--platform=linux/arm/v7 -d --name memos neosmemo/memos:stable

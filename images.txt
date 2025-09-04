@@ -23,4 +23,7 @@
 #节点订阅管理
 #--platform linux/arm/v7 xream/sub-store:http-meta
 #备忘录arm7版本
---platform=linux/arm/v7 neosmemo/memos:0.24
+#--platform=linux/arm/v7 neosmemo/memos:0.24
+#容器管理工具
+--platform=linux/arm/v7 portainer/portainer-ce:alpine-sts
+

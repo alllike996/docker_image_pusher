@@ -26,5 +26,8 @@
 #--platform=linux/arm/v7 neosmemo/memos:0.24
 #容器管理工具
 #--platform=linux/arm/v7 portainer/portainer-ce:alpine-sts
---platform=linux/arm/v7 b3log/siyuan:v3.3.1
+portainer/portainer-ce:alpine-sts
+#--platform=linux/arm/v7 b3log/siyuan:v3.3.1
+
+
 

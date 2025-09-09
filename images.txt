@@ -28,7 +28,7 @@
 #--platform=linux/arm/v7 portainer/portainer-ce:alpine-sts
 #portainer/portainer-ce:alpine-sts
 #--platform=linux/arm/v7 b3log/siyuan:v3.3.1
---platform=linux/arm/arm64 portainer/portainer-ce:alpine-sts
+--platform=linux/arm64 portainer/portainer-ce:alpine-sts
 
 
 

@@ -30,7 +30,7 @@
 #--platform=linux/arm/v7 b3log/siyuan:v3.3.1
 #--platform=linux/arm64 portainer/portainer-ce:alpine-sts
 #本项目旨在构建适用于树莓派 1~4 、适用于 armv6/armv7/armv8(aarch64)/x86_64(amd64) 平台设备的 OpenWrt 镜像 
---platform=linux/arm/v7 sulinggg/openwrt:latest
-
+#--platform=linux/arm/v7 sulinggg/openwrt:latest
+ghcr.io/szemeng76/lunatv:latest
 
 
